@@ -57,8 +57,8 @@ For each period, the following details are returned:
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/stock-market-api.git
-   cd stock-market-api
+   git clone https://github.com/velicki/MDS_Tehnicki_zadatak.git
+   cd MDS_Tehnicki_zadatak
    ```
 2. Build and run the application using Docker:
    ```bash
