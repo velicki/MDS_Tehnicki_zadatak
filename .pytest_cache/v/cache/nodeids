@@ -1,0 +1,10 @@
+[
+  "stocks/tests/test_CompanyService.py::test_create_company",
+  "stocks/tests/test_CompanyService.py::test_create_companyp",
+  "stocks/tests/test_CompanyService.py::test_create_companyp_mocked",
+  "stocks/tests/test_CompanyService.py::test_delete_one_company",
+  "stocks/tests/test_CompanyService.py::test_get_one_company",
+  "stocks/tests/test_CompanyService.py::test_list_of_all_companies",
+  "stocks/tests/test_CompanyService.py::test_mocked_save",
+  "stocks/tests/test_CompanyService.py::test_update_one_company"
+]

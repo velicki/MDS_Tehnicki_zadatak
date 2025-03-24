@@ -1,0 +1,11 @@
+# Python files and folders
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Django files
+db.sqlite3
+/stocks/migrations/*
+!/stocks/migrations/__init__.py
+*.log

@@ -1,0 +1,10 @@
+{
+  "stocks/tests/test_CompanyService.py::test_create_companyp": true,
+  "stocks/tests/test_CompanyService.py::test_create_companyp_mocked": true,
+  "stocks/tests/test_CompanyService.py::test_mocked_save": true,
+  "stocks/tests/test_CompanyService.py::test_create_company": true,
+  "stocks/tests/test_CompanyService.py::test_list_of_all_companies": true,
+  "stocks/tests/test_CompanyService.py::test_get_one_company": true,
+  "stocks/tests/test_CompanyService.py::test_update_one_company": true,
+  "stocks/tests/test_CompanyService.py::test_delete_one_company": true
+}
